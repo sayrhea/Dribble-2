@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+.top-header {
+  display: flex;
+  justify-content: space-around;
+}
+.animation-header {
+  display: flex;
+}
